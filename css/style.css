@@ -42,15 +42,6 @@ main{
     padding:3%;
 }
 
-.contenitore-blu{
-    width: 110px;
-    height: 20px;
-    color: white;
-    background-color: rgb(70, 70, 255);
-    border-radius: 5px 5px;
-    font-size: small;
-}
-
 /*Bottoni top to do list*/
 
 .rettangoloblu{
@@ -76,5 +67,53 @@ main{
     border-color: green;
     border: 2px solid green;
     margin-right:5px;
-    font: small;
+    font-size: small;
+    position: relative;
+}
+
+.cross{
+    color: red;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+    border-radius: 50%;
+    border-color: red;
+    border: 2px solid red;
+    margin-right:5px;
+    font-size: small;
+    position: relative;
+}
+
+/*Contenitori di fianco alle frasi*/
+.contenitore-blu{
+    width: 110px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    background-color: rgb(70, 70, 255);
+    border-radius: 10px 10px;
+    font-size: small;
+    margin-left: 5px;
+}
+
+.contenitore-violetto{
+
+}
+
+.contenitore-verde{
+
+}
+
+.contenitore-arancione{
+
+}
+
+.contenitore-rosa{
+
+}
+
+.contenitore-olive{
+    
 }
