@@ -96,24 +96,70 @@ main{
     border-radius: 10px 10px;
     font-size: small;
     margin-left: 5px;
+    padding: 5px;
 }
 
 .contenitore-violetto{
-
+    width: 110px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: blueviolet;
+    border-radius: 10px 10px;
+    color: white;
+    font-size: small;
+    margin-left: 5px;
+    padding: 5px;
 }
 
 .contenitore-verde{
-
+    width: 110px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: rgb(2, 152, 89);
+    border-radius: 10px 10px;
+    color: white;
+    font-size: small;
+    margin-left: 5px;
+    padding: 5px;
 }
 
 .contenitore-arancione{
-
+    width: 110px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: orange;
+    border-radius: 10px 10px;
+    color: white;
+    font-size: small;
+    margin-left: 5px;
+    padding: 5px;
 }
 
 .contenitore-rosa{
-
+    width: 110px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: rgb(255, 60, 93);
+    border-radius: 10px 10px;
+    color: white;
+    font-size: small;
+    margin-left: 5px;
+    padding: 5px;
 }
 
 .contenitore-olive{
-    
+    width: 110px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: olive;
+    border-radius: 10px 10px;
+    color: white;
+    font-size: small;
+    margin-left: 5px;
+    padding: 5px;
 }
